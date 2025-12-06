@@ -1,0 +1,22 @@
+{
+    "accuracy": 0.81805,
+    "accuracy_real": 0.8076,
+    "accuracy_fake": 0.8285,
+    "precision_real": 0.8248391379838628,
+    "precision_fake": 0.8115388382799491,
+    "recall_real": 0.8076,
+    "recall_fake": 0.8285,
+    "f1_real": 0.8161285432772473,
+    "f1_fake": 0.8199317135929536,
+    "roc_auc": 0.9020474850000001,
+    "confusion_matrix": [
+        [
+            8076,
+            1924
+        ],
+        [
+            1715,
+            8285
+        ]
+    ]
+}
